@@ -1,0 +1,6 @@
+cd host
+npm install gh-pages --save-dev
+create repsetory on click + icon on github
+git init
+git remote add origin https://github.com/Vikas5686/host.git
+npm run deploy
